@@ -1,3 +1,4 @@
-# First Chapter
+前言
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+java 作为当今世界使用范围最为广泛的语言，大量应用于各类应用中。不同应用对java各知识体系要求侧重不同，但是作为一个优秀的开发者，应该对java的技术体系有深入的梳理和了解。
+
